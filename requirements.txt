@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+opencv-python-headless
+ultralytics
+deep_sort_realtime
+paddleocr
+mysql-connector-python
+numpy
+pandas
+requests
+python-multipart
+loguru
